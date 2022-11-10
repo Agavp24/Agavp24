@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gonzalo Di Mario
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning MERN and working full time on .NET
+- 🌱 I’m currently working at N5 NOW as Front End Developer & Supporting a proyect on Next.JS & Sass.
 
 - 📫 How to reach me gonzodim@gmail.com
 
